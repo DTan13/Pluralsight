@@ -48,6 +48,8 @@ some of them are from [Github](https://github.com/) which are listed below
 all of this might look same but each of them is unique and works differently.
 If you have problems with any one of them you can simply use other.
 
-# Thank You!!
+# [Thank You!!](https://github.com/DTan13)
 
-Happy Hacking!
+Happy Hacking!-
+
+by [DTan13](https://github.com/DTan13)
