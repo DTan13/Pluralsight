@@ -50,6 +50,6 @@ If you have problems with any one of them you can simply use other.
 
 # [Thank You!!](https://github.com/DTan13)
 
-Happy Hacking!-
+Happy Hacking!
 
 by [DTan13](https://github.com/DTan13)
