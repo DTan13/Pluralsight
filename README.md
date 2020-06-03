@@ -8,7 +8,7 @@ Recently I came across a simple technique to get pluralsight free for a month. A
 
 ### Step 1 : Create [Microsoft](https://www.microsoft.com) Account 
 
-forstly you have to create a Microsoft account using your email.
+firstly you have to create a Microsoft account using your email.
 
 ### Step 2 : Log In into [Visual Studio Account](https://my.visualstudio.com/)
 
