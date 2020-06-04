@@ -53,3 +53,7 @@ If you have problems with any one of them you can simply use other.
 Happy Hacking!
 
 by [DTan13](https://github.com/DTan13)
+
+### Other Tricks
+
+For DataCamp : [Pluralsight Free for You!!](https://dtan13.github.io/DataCamp/)
