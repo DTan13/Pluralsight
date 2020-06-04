@@ -56,4 +56,4 @@ by [DTan13](https://github.com/DTan13)
 
 ### Other Tricks
 
-For DataCamp : [Pluralsight Free for You!!](https://dtan13.github.io/DataCamp/)
+For DataCamp : [DataCamp Free for You!!](https://dtan13.github.io/DataCamp/)
